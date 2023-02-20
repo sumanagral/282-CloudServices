@@ -4,13 +4,16 @@
 
 #### Team Members: 
 Chinmayi Sunku
+
 Suma Nagral
+
 Sakshi Kekre
+
 
 #### Github Reference Link: https://github.com/sumanagral/282-CloudServices
 #### Database Link:  https://github.com/datacharmer/test_db
 
-Step 1: Create an Active Directory
+#### Step 1: Create an Active Directory
 1.	Choose AWS Managed Microsoft AD
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/83566582/220047798-07e5d308-b4ce-4c1a-86ff-43e608a946ec.png">
 
@@ -40,7 +43,7 @@ Step 1: Create an Active Directory
 
  
 
-Step 2: Launch EC2 Instance 
+#### Step 2: Launch EC2 Instance 
 1.	Launch an EC2 instance with Microsoft OS image
  
  
@@ -53,7 +56,7 @@ Step 2: Launch EC2 Instance
 
 
 
-Step 3: Connect to EC2 Instance using RDP client Microsoft Remote Desktop
+#### Step 3: Connect to EC2 Instance using RDP client Microsoft Remote Desktop
 1.	Download Microsoft Remote Desktop for Mac Users
 2.	Get the Public IP4 address for EC2 Instance
 3.	Get password for the EC2 instance by uploading the private keypair
@@ -68,7 +71,7 @@ Step 3: Connect to EC2 Instance using RDP client Microsoft Remote Desktop
 
 
 
-Step 4: Change Network Settings in Instance
+#### Step 4: Change Network Settings in Instance
 1.	Go to Control Panel > Network and Internet > Network Connections
 2.	Click on IP4 Properties
 3.	Insert DNS addressed from the Directory Service 
