@@ -1,6 +1,6 @@
 # 282-CloudServices
-Homework #1 Active Directory
-282 - Cloud Services
+## Homework #1 Active Directory
+## 282 - Cloud Services
 
 #### Team Members: 
 Chinmayi Sunku
