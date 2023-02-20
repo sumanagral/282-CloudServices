@@ -153,6 +153,8 @@ foreach ($User in $ADUsers)
  
 
 Get User Count:
+
+
  <img width="468" alt="image" src="https://user-images.githubusercontent.com/83566582/220048571-4a360074-7480-4cc1-b4a4-003fddb8e098.png">
 
 
